@@ -11,7 +11,7 @@
 5. git remote add origin https://github.com/Rezuan-Ahmed-git/train-dev.git
 6. git push -u origin main
 
-## Commit:
+### Commit:
 
 1. git commit -m ""
 2. git commit -m "Header" -m "Description" -m "Footer"
@@ -60,3 +60,5 @@ git clone -b <branch-name> <link>
    git push -u origin feature/login-page
 
 6. Create Pull Request (PR)
+
+### Trying something new
