@@ -62,3 +62,19 @@ git clone -b <branch-name> <link>
 6. Create Pull Request (PR)
 
 ### Trying something new
+
+--
+
+🧠 General Rules
+
+1. Never commit directly to main or dev.
+
+2. Always create a new branch from dev (for features/fixes).
+
+3. Use Pull Requests (PR) for merging — no direct merges.
+
+4. Always rebase before merging to keep the commit history clean.
+
+5. Use descriptive branch names and meaningful commit messages. (Imperative present tense)
+
+6. Keep PRs small and focused.
